@@ -2,7 +2,7 @@
 
 **`Software Engineer (Developer/Filmmaker/Content-Creator)`**
 
-I'm a Software Engineer Undergraduate (BENg) with a passion for digital art. My goal is to build expertise as a full-stack developer and content creator while providing resources that can be valuable to others in the digital community. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, and are therefore personalized in an authentic and artistic way. I also plan to publish that content on my YouTube channel "[Evan Balson][youtube]" to more than 500k subscribers.
+I'm a Software Engineer Undergraduate (BENg) with a passion for digital art. My goal is to build expertise as a full-stack developer and content creator while providing resources that can be valuable to others in the digital community. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, and are therefore personalized in an authentic and artistic way. I also plan to publish that content on my YouTube channel "[Evan Balson][youtube]"..
 
    <p align="left">
       <a href="https://www.youtube.com/channel/UCo_hXS7iVdFIIYYKNuHFeiQ?sub_confirmation=1">
