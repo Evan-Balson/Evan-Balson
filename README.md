@@ -1,6 +1,6 @@
 # 😄 Hi!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+welcome+to+my+GitHub;I'm+Evan!;and+I’m+a+Software+Developer...;hmmm...+sounds+too+serious;well+then,+I’m+a+UI/UX+Designer?;okay+I+got+it...+I'm+a+Programmer?;Okay+you+know+what?,+I+like+coffee!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+welcome+to+my+GitHub!;I'm+Evan!;and+I’m+a+Software+Developer...;Hmmm...+sounds+too+serious;Well+then,+I’m+a+UI/UX+Designer?;Okay+I+got+it!...+I'm+a+Programmer?;Okay+you+know+what...;+I+like+coffee!+and+creating+things;)](https://git.io/typing-svg)
 
 **`Software Engineer (Developer/Filmmaker/Content-Creator)`**
 
