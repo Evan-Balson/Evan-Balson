@@ -1,10 +1,10 @@
 # 😄 Hi!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+welcome+to+my+GitHub!;I'm+Evan!;and+I’m+a+Software+Developer...;Hmmm...+sounds+too+serious;Well+then,+I’m+a+UI/UX+Designer?;Okay+I+got+it!...+I'm+a+Programmer?;Okay+you+know+what...;+I+like+coffee!+and+creating+things!!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+welcome+to+my+GitHub!;I'm+Evan!;and+I’m+a+Software+Developer...;Hmmm...+sounds+too+serious;Well+then,+I’m+a+UI/UX+Designer?;Okay+I+got+it!..+I'm+a+Programmer?;Okay+you+know+what...;+I+like+coffee+and+creativity!!;)](https://git.io/typing-svg)
 
 **`Software Engineer (Developer/Filmmaker/Content-Creator)`**
 
-I'm a Software Engineer Undergraduate (BENg) with a passion for digital art. My goal is to build expertise as a full-stack developer and content creator while providing resources that can be valuable to others in the digital community. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, and are therefore personalized in an authentic and artistic way. I also plan to publish that content on my YouTube channel "[Evan Balson][youtube]"..
+I'm a Software Engineer Undergraduate (BENg) with a passion for digital art. My goal is to build expertise as a full-stack developer and content creator while providing resources that can be valuable to others in the digital community. All coding projects are built from the ground up; from planning and designing all the way to solving real-life problems with code. All video content is built the same way, and are therefore personalized in an authentic and artistic way. I also plan to publish that content on my YouTube channel "[Evan Balson][youtube]"..
 
 ---
 <br/>
